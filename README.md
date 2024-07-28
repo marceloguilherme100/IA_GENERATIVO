@@ -15,15 +15,6 @@ Este repositório contém o projeto de reconhecimento de texto em imagens.
 
 2. **Reconhecimento de Texto**: Utilizamos [IA Generativo: fotor.com] para o reconhecimento de texto.
 
-## Insights
-
-- [Insight 1]
-- [Insight 2]
-
-## Possibilidades
-
-- [Possibilidade 1]
-- [Possibilidade 2]
 
 ## Prints
 
