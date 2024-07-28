@@ -1,4 +1,5 @@
-# IA Generativa
+# IA Generativa 
+https://img.icons8.com/?size=100&id=20906&format=png&color=000000
 
 ## Descrição
 
