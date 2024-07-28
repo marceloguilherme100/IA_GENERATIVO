@@ -1,7 +1,7 @@
 # IA Generativa 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Marcelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Marcelo-Js" height="30" width="40" src="https://u-static.fotor.com/images/text-to-image/result/PRO-bf5907c1bb3f4e16a35c211547421bcd.jpg">
   <img align="center" alt="Marcelo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Marcelo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcelo-CSS" height="30" width="40" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000">
