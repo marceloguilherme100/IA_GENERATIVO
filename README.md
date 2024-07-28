@@ -1,4 +1,4 @@
-# IA Generativa 
+# IA Generativas 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcelo-IA1" height="100" width="100" src="https://u-static.fotor.com/images/text-to-image/result/PRO-bf5907c1bb3f4e16a35c211547421bcd.jpg">
