@@ -18,5 +18,5 @@ Este repositório contém o projeto de reconhecimento de texto em imagens.
 
 ## Prints
 
-![Print 1](outputs/fotor-ai-1.png)
-![Print 2](outputs/fotor-ai-2.png)
+[Print 1](outputs/fotor-ai-1.png)
+[Print 2](outputs/fotor-ai-2.png)
