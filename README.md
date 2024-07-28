@@ -2,7 +2,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcelo-IA1" height="100" width="100" src="https://u-static.fotor.com/images/text-to-image/result/PRO-bf5907c1bb3f4e16a35c211547421bcd.jpg">
-  <img align="center" alt="Marcelo-IA2" height="200" width="100" src="https://u-static.fotor.com/images/text-to-image/result/PRO-f539bb109ec24b53acedc2f789b9ad2f.jpg">
+  <img align="center" alt="Marcelo-IA2" height="100" width="100" src="https://u-static.fotor.com/images/text-to-image/result/PRO-f539bb109ec24b53acedc2f789b9ad2f.jpg">
   <img align="center" alt="Marcelo-GIT" height="50" width="60" src="https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000">
   <img align="center" alt="Marcelo-VSCODE" height="50" width="60" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000">
  
